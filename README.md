@@ -1,4 +1,5 @@
 # odin-recipes
 Ejercicio de HTML  en https://www.theodinproject.com
 Seguimos paso a paso los ejercicios para reforzar conceptos
-y seguir mejorando el manejo de HTML
+y seguir mejorando el manejo de HTML.
+Las recetas fueron sacadas de: https://www.recetasgratis.net/
